@@ -9,12 +9,16 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/froala/css/froala_blocks.css">
     <link rel="stylesheet" href="assets/bootstrap4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
   </head>
   <body>
 
 
 <?php
 include "inc/header.php";
+//include "inc/features.php";
+include "inc/features.php";
  ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
