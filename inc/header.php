@@ -1,7 +1,7 @@
 <header  style="background:#4A148C" class="navbar-dark">
     <div class="container">
       <nav class="navbar navbar-expand-lg">
-        <a class="navbar-brand" href="https://www.froala.com">
+        <a class="navbar-brand" href="#">
           <img src="img/logo.png" height="50" alt="image">
         </a>
 
@@ -12,16 +12,16 @@
         <div class="collapse navbar-collapse" id="navbarNav13">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="https://www.froala.com">Acceuil <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="#">Acceuil <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.froala.com">Services</a>
+              <a class="nav-link" href="#">Services</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.froala.com">Contat</a>
+              <a class="nav-link" href="#">Contat</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.froala.com">Team</a>
+              <a class="nav-link" href="#">Team</a>
             </li>
           </ul>
 
@@ -33,11 +33,11 @@
               <a class="nav-link" href="#"><i class="fa fa-phone"></i></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.froala.com">Log In</a>
+              <a class="nav-link" href="#">Log In</a>
             </li>
           </ul>
 
-          <a class="btn btn-warning ml-md-3" href="https://www.froala.com">RESERVER</a>
+          <a class="btn btn-warning ml-md-3" href="#">RESERVER</a>
         </div>
       </nav>
     </div>

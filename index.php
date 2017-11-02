@@ -17,8 +17,13 @@
 
 <?php
 include "inc/header.php";
+include "inc/main.php";
 //include "inc/features.php";
 include "inc/features.php";
+
+include "inc/contact.php";
+include "inc/footer.php";
+
  ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
