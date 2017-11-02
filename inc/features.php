@@ -1,5 +1,5 @@
 <section class="fdb-block">
-    <div class="col-fill-left" style="background-image: url(assets/froala/imgs/bg_c_1.svg)">
+    <div class="col-fill-left" style="background-image: url(img/2ex.jpg)">
     </div>
 
     <div class="container">
