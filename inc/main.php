@@ -1,4 +1,4 @@
-<section class="fdb-block" style="background-image: url(assets/froala/imgs/bg_c_1.svg)">
+<section class="fdb-block" style="background-image: url(img/20171014_153311_Pano.jpg)">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-12 col-md-10 col-lg-8 text-center">

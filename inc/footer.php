@@ -5,7 +5,7 @@
           <h3><strong>Hotel el hidhab</strong></h3>
           <p>centre ville setif<br>Contact Name</p>
           <p>+213 36 51 41 32</p>
-          <p><a href="#">contact@hotelelhidhab.com</a></p>
+          <p><a href="#">elhidhabhotel@yahoo.fr</a></p>
         </div>
 
         <div class="col-12 col-sm-6 col-md-4 mt-4 mt-sm-0">
@@ -16,8 +16,11 @@
         </div>
 
         <div class="col-12 col-md-4 mt-5 mt-md-0 text-md-left">
-          <h3><strong>About Us</strong></h3>
-          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+          <h3><strong>A PROPOS</strong></h3>
+          <p>Hôtel Urbain Situé au Centre de la Ville. Au Coeur du Park D'attraction et a 1 Minute du Park Mall Sétif -Musée -Maison de La Culture.
+L'airoport de setif et situe a 10 minute de hotel.</p>
+<p>Notre hotel est un établissement unique,comprenant des chambres modernes dans un cadre agréable.L'hotel et entouré d'un grand espace vert paisible et reposant,loin du stress et du bruit de la ville .
+</p>
         </div>
       </div>
 
