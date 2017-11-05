@@ -1,4 +1,4 @@
-<section class="fdb-block bg-dark">
+<section class="fdb-block bg-dark" >
     <div class="col-fill-left" style="background-image: url(img/2ex.jpg)">
     </div>
 

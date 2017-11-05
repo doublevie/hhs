@@ -1,4 +1,4 @@
-<section class="fdb-block pb-0 bg-dark" id="contact" style="background-color:#6A1B9A!important">
+<section class="fdb-block pb-0 bg-dark" id="contact" style="background-color:#6d0202!important">
     <div class="container">
       <div class="row text-center justify-content-center">
         <div class="col-12 col-md-8 col-lg-7">
@@ -33,7 +33,7 @@
             </div>
             <div class="row mt-4">
               <div class="col text-right">
-                <button type="submit" class="btn">Envoyer</button>
+                <button type="submit" class="btn btn-warning">Envoyer</button>
               </div>
             </div>
           </form>
