@@ -1,4 +1,4 @@
-<section class="fdb-block team-1">
+<section class="fdb-block team-1" id="services">
     <div class="container">
       <div class="row text-center justify-content-center">
         <div class="col-8">

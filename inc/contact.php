@@ -1,4 +1,4 @@
-<section class="fdb-block pb-0 bg-dark" style="background-color:#6A1B9A!important">
+<section class="fdb-block pb-0 bg-dark" id="contact" style="background-color:#6A1B9A!important">
     <div class="container">
       <div class="row text-center justify-content-center">
         <div class="col-12 col-md-8 col-lg-7">
