@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="assets/froala/css/froala_blocks.css">
     <link rel="stylesheet" href="assets/bootstrap4/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/animate/animate.css">
+    <link rel="stylesheet" href="assets/css/main.css">
 
   </head>
   <body>
@@ -20,7 +20,7 @@
 <?php
 include "inc/header.php";
 include "inc/main.php";
-//include "inc/features.php";
+include "inc/services.php";
 include "inc/features.php";
 
 include "inc/contact.php";

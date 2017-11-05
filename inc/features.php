@@ -1,14 +1,17 @@
-<section class="fdb-block">
+<section class="fdb-block bg-dark">
     <div class="col-fill-left" style="background-image: url(img/2ex.jpg)">
     </div>
 
     <div class="container">
       <div class="row justify-content-end">
         <div class="col-12 col-md-5 text-center">
-          <h1 class="nt">Les Services</h1>
-          <p class="text-h3">When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
+          <h1 class="nt main-txt">Chambres</h1>
+          <p class="text-h3">
+            Les Résidents peuvent utiliser une TV, le Wi-Fi, Internet  grande vitesse, un coffre-fort et un bureau, qui sont disponibles dans les chambres .
 
-          <p class="mt-4"><a href="https://www.froala.com">Learn More &gt;</a></p>
+          </p>
+
+          <p class="mt-4"><a href="#">détails &gt;</a></p>
         </div>
       </div>
     </div>
