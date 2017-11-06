@@ -19,11 +19,13 @@
 
 <?php
 include "inc/header.php";
-include "inc/main.php";
-include "inc/services.php";
+ include "inc/main.php";
+ include "inc/services.php";
 include "inc/features.php";
+include "inc/portfolio.php";
+include "inc/prices.php";
 
-include "inc/contact.php";
+ include "inc/contact.php";
 include "inc/footer.php";
 
  ?>

@@ -1,15 +1,34 @@
 <section class="fdb-block pb-0 bg-dark" id="contact" style="background-color:#6d0202!important">
     <div class="container">
-      <div class="row text-center justify-content-center">
+      <div class="row ">
         <div class="col-12 col-md-8 col-lg-7">
-          <h1 class="main-txt">Contact</h1>
-          <p class="text-h3">If you’re already an active user, please <a href="https://www.froala.com">sign in</a> before contacting us.</p>
-        </div>
+          <h1 class="main-txt nt">Contact</h1>
+         </div>
       </div>
-      <div class="row-50">
-      </div>
+
       <div class="row justify-content-center">
-        <div class="col-12 col-md-8 col-lg-7">
+        <div class="col-6 col-md-6 col-lg-6">
+          <!-- <h1 class="main-txt nt">Contact</h1> -->
+          <p class="text-h3 nt">
+
+            <span class="main-txt">TEL</span><br>
+            <b>+ 213 (0) 36 51 46 46<br>
+            + 213 (0) 36 51 41 34</b><br>
+
+            <span class="main-txt">FAX</span> <br>
+             + 213 (0) 36 51 41 32<br>
+
+            <span class="main-txt">EMAIL</span><br>
+               elhidhabhotel@yahoo.fr<br>
+
+            <span class="main-txt">SITE WEB</span><br>
+                http://www.hotelelhidhab.com<br>
+          </p>
+        </div>
+        <div class="col-6 col-md-6 col-lg-6">
+
+
+
           <form>
             <div class="row">
               <div class="col">
