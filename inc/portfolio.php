@@ -14,13 +14,13 @@
 <div class="container-fluid">
 <div class="row gallery">
 
-<div class="col-md-3  gallgrid" data-filter="1">
+<div class="  gallgrid" data-filter="1">
 <img src="img\birds.jpg" alt="">
 </div>
-<div class="col-md-3  gallgrid" data-filter="3" width="0">
+<div class="  gallgrid" data-filter="3" width="0">
 <img src="img\ev.jpg" alt="">
 </div>
-<div class="col-md-3 gallgrid " data-filter="1">
+<div class=" gallgrid " data-filter="1">
 <img src="img\khaima.jpg" alt="">
 </div>
 

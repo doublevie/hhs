@@ -52,17 +52,17 @@
 body {padding-top:40px;}
 
 .gallery {padding:15px}
-.gallgrid {position: relative;padding:1px!important}
+.gallgrid {position: relative;padding:1px!important;overflow: hidden;float:left;width:25%;}
 .gallgrid img{width:100%;height:auto;
   -webkit-filter: contrast(150%); /* Safari */
       filter: contrast(150%);
     }
-.gallgrid.hidd img{ -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);}
+.gallgrid.hidd ,.gallgrid.hidd img{ height:0;width:0!important;}
 
-.gallgrid img, .gallgrid.hidd img{
-  transition: filter,-webkit-filter 0.9s ease;
+.gallgrid.hidd , .gallgrid ,.gallgrid  img,.gallgrid.hidd img {
+  transition: height 0.8s ease-out ,  width 0.8s ease-out;
 }
+
 
 .main-txt {color: #ffc107;}
 .sec-txt {color: #450000;}
