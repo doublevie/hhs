@@ -17,11 +17,12 @@
             <li class="nav-item">
               <a class="nav-link" href="#services">Services</a>
             </li>
+
             <li class="nav-item">
-              <a class="nav-link" href="#contact">Contat</a>
+              <a class="nav-link" href="#">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Team</a>
+              <a class="nav-link" href="#contact">Contat</a>
             </li>
           </ul>
 
@@ -32,9 +33,9 @@
             <li class="nav-item">
               <a class="nav-link" href="#"><i class="fa fa-phone"></i></a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link" href="#">Log In</a>
-            </li>
+            </li> -->
           </ul>
 
           <a class="btn btn-warning ml-md-3" href="#">RESERVER</a>

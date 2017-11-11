@@ -11,7 +11,7 @@
           <div class="br">
             <div class="bg-dark p-3 text-center">
               <h2 class="font-weight-light">single</h2>
-              <p class="text-h2 main-txt"><strong>5 200 DA</strong></p>
+              <p class="text-h2 main-txt"><strong>6 200 DA</strong></p>
             </div>
 
             <div class="bg-gray p-5 text-center">

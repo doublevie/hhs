@@ -26,7 +26,7 @@ L'airoport de setif et situe a 10 minute de hotel.</p>
 
       <div class="row mt-5">
         <div class="col text-center">
-          © 2017 By FREQUENCY
+          © 2017 By <a href="http://frequency-dz.com/" target="blank">FREQUENCY</a>
         </div>
       </div>
     </div>
