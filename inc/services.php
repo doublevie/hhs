@@ -16,7 +16,29 @@
 
             <div class="content">
               <h3><strong>Khaima</strong></h3>
-              <p>Founder</p>
+            
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/piscine.jpg">
+
+            <div class="content">
+              <h3><strong>Piscine</strong></h3>
+            
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/rst2.jpg">
+
+            <div class="content">
+              <h3><strong>Salle des fetes</strong></h3>
+            
             </div>
           </div>
         </div>
@@ -27,7 +49,7 @@
 
             <div class="content">
               <h3><strong>Parking</strong></h3>
-              <p>Founder</p>
+            
             </div>
           </div>
         </div>
@@ -37,7 +59,7 @@
 
             <div class="content">
               <h3><strong>Stade</strong></h3>
-              <p>Founder</p>
+            
             </div>
           </div>
         </div>
@@ -47,7 +69,7 @@
 
             <div class="content">
               <h3><strong>Sauna</strong></h3>
-              <p>Founder</p>
+            
             </div>
           </div>
         </div>

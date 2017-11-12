@@ -5,11 +5,19 @@
     <div class="camera_wrap" id="camera_wrap">
     <div data-src="img/2ex.jpg">
       <div class="camera_caption fadeFromBottom">
-                          Camera is a responsive/adaptive slideshow. <em>Try to resize the browser window</em>
+                        Hôtel Urbain Situé au Centre de la Ville
                       </div>
     </div>
-    <div data-src="img/khaima.jpg"></div>
-    <div data-src="img/20171014_153311_Pano.jpg"></div>
+    <div data-src="img/rst2.jpg">
+      <div class="camera_caption fadeFromBottom">
+                      Salle des fetes
+                      </div>
+    </div>
+    <div data-src="img/restaurant.jpg">
+      <div class="camera_caption fadeFromBottom">
+                      Restaurant / Cafeteria / Salles de réunions / Salle des fetes
+                      </div>
+                    </div>
 </div>
 
 

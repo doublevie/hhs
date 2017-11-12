@@ -109,6 +109,14 @@ $('a[href*="#"]')
  <script type="text/javascript">
    $(function(){
      jQuery('#camera_wrap').camera({
+       pieDiameter: 38,
+       piePosition: 'rightBottom',
+       time : 5000 ,
+       barPosition : 'top',
+       loaderColor : '#FFC108',
+       loaderOpacity :1 ,
+       height: '41%',
+       pagination: false,
 
 			});
    })

@@ -1,5 +1,5 @@
 
-<section class="bg-dark" style="background-color:#6d0202!important">
+<section class="bg-dark" id="galerie" style="background-color:#6d0202!important">
   <br>
 <div class="container-fluid" align="center">
   <div class="btn-group" role="group" aria-label="Basic example">

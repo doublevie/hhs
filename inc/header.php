@@ -2,7 +2,7 @@
     <div class="container">
       <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="#">
-          <img src="img/logo1.png" height="50" alt="image">
+          <img src="img/logo2.png" height="50" alt="image">
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav13" aria-controls="navbarNav13" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,7 +19,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Portfolio</a>
+              <a class="nav-link" href="#galerie">Galerie </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">Contat</a>

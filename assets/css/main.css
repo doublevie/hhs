@@ -67,7 +67,7 @@ body {padding-top:40px;}
 .main-txt {color: #ffc107;}
 .sec-txt {color: #450000;}
 
-.team-1.fdb-block img {border-bottom-color: #ffc107!important}
+.team-1.fdb-block img {border-bottom-color: #ffc107!important;height:150px;width:100%;}
 .fdb-box {margin-bottom:10px}
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
