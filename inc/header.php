@@ -1,4 +1,4 @@
-<header  style=";background:#450000" class="navbar-dark animated fixed-top">
+<header  style="background:#450000" class="navbar-dark animated fixed-top">
     <div class="container">
       <nav class="navbar navbar-expand-lg">
         <a class="navbar-brand" href="#">
