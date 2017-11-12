@@ -117,7 +117,6 @@ $('a[href*="#"]')
        loaderOpacity :1 ,
        height: '41%',
        pagination: false,
-
 			});
    })
  </script>

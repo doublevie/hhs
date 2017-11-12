@@ -12,64 +12,64 @@
       <div class="row">
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/khaima.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/khaima.jpg">
 
             <div class="content">
               <h3><strong>Khaima</strong></h3>
-            
+
             </div>
           </div>
         </div>
 
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/piscine.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/piscine.jpg">
 
             <div class="content">
               <h3><strong>Piscine</strong></h3>
-            
+
             </div>
           </div>
         </div>
 
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/rst2.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/rst2.jpg">
 
             <div class="content">
               <h3><strong>Salle des fetes</strong></h3>
-            
+
             </div>
           </div>
         </div>
 
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/parking.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/parking.jpg">
 
             <div class="content">
               <h3><strong>Parking</strong></h3>
-            
+
             </div>
           </div>
         </div>
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/stadium.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/stadium.jpg">
 
             <div class="content">
               <h3><strong>Stade</strong></h3>
-            
+
             </div>
           </div>
         </div>
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/sona1.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/sona1.jpg">
 
             <div class="content">
               <h3><strong>Sauna</strong></h3>
-            
+
             </div>
           </div>
         </div>
