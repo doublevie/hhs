@@ -68,12 +68,35 @@ body {padding-top:40px;}
 .sec-txt {color: #450000;}
 
 .team-1.fdb-block img {border-bottom-color: #ffc107!important;height:150px;width:100%;}
-.fdb-box {margin-bottom:10px}
+.fdb-box {margin-bottom:20px}
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
     font-family: 'Comfortaa', cursive;
 
 }
+
+
+.form-control:focus {
+
+  border-color: #ffc107;
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(255,193,7, 0.25);
+}
+
+
+.col-fill-left[data-emergence=hidden] {
+  -webkit-filter: grayscale(100%);
+ -moz-filter: grayscale(100%);
+ -o-filter: grayscale(100%);
+ -ms-filter: grayscale(100%);
+ filter: grayscale(100%);
+ transition: all 3s ease;
+}
+.col-fill-left[data-emergence=visible] {
+  transition: all 2s ease;
+}
+
+
 
 .nt {
   font-family: 'Comfortaa', cursive ;

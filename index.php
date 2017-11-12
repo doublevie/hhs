@@ -23,8 +23,10 @@ include "inc/header.php";
  include "inc/main.php";
  include "inc/services.php";
 include "inc/features.php";
-include "inc/portfolio.php";
 include "inc/prices.php";
+include "inc/portfolio.php";
+
+ include "inc/reservation.php";
 
  include "inc/contact.php";
 include "inc/footer.php";
@@ -32,10 +34,17 @@ include "inc/footer.php";
  ?>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="assets/js/emergence.min.js"></script>
+<script>
+  emergence.init();
+</script>
+
     <script src="assets/jquery/dist/jquery.min.js" ></script>
     <script src="assets/bootstrap4/js/popper.min.js" ></script>
     <!-- <script src="assets/bootstrap4/js/bootstrap.min.js" ></script> -->
     <script src="assets/bootstrap4/js/bootstrap.min.js" ></script>
+    <script type='text/javascript' src='assets/js/jquery.easing.1.3.js'></script>
+    <script type='text/javascript' src='assets/js/camera.min.js'></script>
 <script type="text/javascript">
 $('document').ready(function() {
 var lastScrollTop = 0;
@@ -104,8 +113,6 @@ $('a[href*="#"]')
 })
 </script>
 
- <script type='text/javascript' src='assets/js/jquery.easing.1.3.js'></script>
- <script type='text/javascript' src='assets/js/camera.min.js'></script>
  <script type="text/javascript">
    $(function(){
      jQuery('#camera_wrap').camera({
@@ -115,7 +122,7 @@ $('a[href*="#"]')
        barPosition : 'top',
        loaderColor : '#FFC108',
        loaderOpacity :1 ,
-       height: '41%',
+       height: '31%',
        pagination: false,
 			});
    })

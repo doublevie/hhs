@@ -10,16 +10,6 @@
       <div class="row-50"></div>
 
       <div class="row">
-        <div class="col-sm-3 text-left">
-          <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/X600/khaima.jpg">
-
-            <div class="content">
-              <h3><strong>Khaima</strong></h3>
-
-            </div>
-          </div>
-        </div>
 
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
@@ -34,10 +24,64 @@
 
         <div class="col-sm-3 text-left">
           <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/X600/rst2.jpg">
+            <img alt="image" class="img-fluid" src="img/X600/hammam1.jpg">
+
+            <div class="content">
+              <h3><strong>Hamam turk</strong></h3>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/X600/hammam2.jpg">
+
+            <div class="content">
+              <h3><strong>Hamam individuel</strong></h3>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/X600/sdf.jpg">
 
             <div class="content">
               <h3><strong>Salle des fetes</strong></h3>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/X600/stadium.jpg">
+
+            <div class="content">
+              <h3><strong>Stade</strong></h3>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/X600/khaima.jpg">
+
+            <div class="content">
+              <h3><strong>Khaima</strong></h3>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-3 text-left">
+          <div class="fdb-box">
+            <img alt="image" class="img-fluid" src="img/X600/ev.jpg">
+
+            <div class="content">
+              <h3><strong>grand espace vert</strong></h3>
 
             </div>
           </div>
@@ -49,16 +93,6 @@
 
             <div class="content">
               <h3><strong>Parking</strong></h3>
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3 text-left">
-          <div class="fdb-box">
-            <img alt="image" class="img-fluid" src="img/X600/stadium.jpg">
-
-            <div class="content">
-              <h3><strong>Stade</strong></h3>
 
             </div>
           </div>

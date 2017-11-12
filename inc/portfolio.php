@@ -15,13 +15,13 @@
 <div class="row gallery">
 
 <div class="  gallgrid" data-filter="1">
-<img src="img\birds.jpg" alt="">
+<img src="img\X600\birds.jpg" alt="">
 </div>
 <div class="  gallgrid" data-filter="3" width="0">
-<img src="img\ev.jpg" alt="">
+<img src="img\X600\ev.jpg" alt="">
 </div>
 <div class=" gallgrid " data-filter="1">
-<img src="img\khaima.jpg" alt="">
+<img src="img\X600\khaima.jpg" alt="">
 </div>
 
 

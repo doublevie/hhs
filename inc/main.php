@@ -18,6 +18,11 @@
                       Restaurant / Cafeteria / Salles de réunions / Salle des fetes
                       </div>
                     </div>
+    <div data-src="img/dbl2.jpg">
+      <div class="camera_caption fadeFromBottom">
+                      Chambres Single/double/mini suites / suites
+                      </div>
+                    </div>
 </div>
 
 

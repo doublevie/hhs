@@ -1,5 +1,5 @@
 <section class="fdb-block bg-dark" >
-    <div class="col-fill-left" style="background-image: url(img/2ex.jpg)">
+    <div class="col-fill-left" style="background-image: url(img/2ex.jpg)" data-emergence="hidden">
     </div>
 
     <div class="container">

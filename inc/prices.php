@@ -2,12 +2,12 @@
     <div class="container">
       <div class="row text-center">
         <div class="col">
-          <h1>Les tarifs des chambres</h1>
+          <h1 class="nt">Les tarifs des chambres</h1>
         </div>
       </div>
 
       <div class="row mt-5 align-items-top">
-        <div class="col-12 col-sm-10 col-md-8 m-auto col-lg-3 text-left">
+        <div class="col-12 col-sm-10 col-md-8 m-auto col-lg-3 text-left ">
           <div class="br">
             <div class="bg-dark p-3 text-center">
               <h2 class="font-weight-light">single</h2>
@@ -20,7 +20,7 @@
 
 
 
-              <p class="text-center pt-5"><a href="https://www.froala.com" class="btn btn-warning">Réserver</a></p>
+              <p class="text-center pt-5"><a href="#reservation" class="btn btn-warning">Réserver</a></p>
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@
               <p class="text-h4"><strong>For small companies</strong></p>
 
 
-              <p class="text-center pt-5"><a href="https://www.froala.com" class="btn btn-warning">Réserver</a></p>
+              <p class="text-center pt-5"><a href="#reservation" class="btn btn-warning">Réserver</a></p>
             </div>
           </div>
         </div>
@@ -53,7 +53,7 @@
               <p><img alt="image" height="40" src="assets/froala/imgs/img_round.svg"></p>
               <p class="text-h4"><strong>For large companies</strong></p>
 
-              <p class="text-center pt-5"><a href="https://www.froala.com" class="btn btn-warning">Réserver</a></p>
+              <p class="text-center pt-5"><a href="#reservation" class="btn btn-warning">Réserver</a></p>
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@
               <p class="text-h4"><strong>For large companies</strong></p>
 
 
-              <p class="text-center pt-5"><a href="https://www.froala.com" class="btn btn-warning">Réserver</a></p>
+              <p class="text-center pt-5"><a href="#reservation" class="btn btn-warning">Réserver</a></p>
             </div>
           </div>
         </div>
