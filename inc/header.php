@@ -38,7 +38,7 @@
             </li> -->
           </ul>
 
-          <a class="btn btn-warning ml-md-3" href="#">RESERVER</a>
+          <a class="btn btn-warning ml-md-3" href="#reservation">RESERVER</a>
         </div>
       </nav>
     </div>

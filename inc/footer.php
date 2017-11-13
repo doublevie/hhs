@@ -9,7 +9,7 @@
         </div>
 
         <div class="col-12 col-sm-6 col-md-4 mt-4 mt-sm-0">
-          <h3><strong class="main-txt">Reserver</strong></h3>
+          <h3><strong class="main-txt"> </strong></h3>
           <p>Street Address 100<br>Contact Name</p>
           <p>+13 827 312 5002</p>
           <p><a href="https://www.froala.com">countryb@amazing.com</a></p>
