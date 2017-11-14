@@ -27,7 +27,7 @@
             <img alt="image" class="img-fluid" src="img/X600/hammam1.jpg">
 
             <div class="content">
-              <h3><strong>Hamam turk</strong></h3>
+              <h3><strong>Hammam turque</strong></h3>
 
             </div>
           </div>
@@ -37,7 +37,7 @@
             <img alt="image" class="img-fluid" src="img/X600/hammam2.jpg">
 
             <div class="content">
-              <h3><strong>Hamam individuel</strong></h3>
+              <h3><strong>Hammam individuel</strong></h3>
 
             </div>
           </div>
@@ -59,7 +59,7 @@
             <img alt="image" class="img-fluid" src="img/X600/stadium.jpg">
 
             <div class="content">
-              <h3><strong>Stade</strong></h3>
+              <h3><strong>terrain de football</strong></h3>
 
             </div>
           </div>
